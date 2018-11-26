@@ -1,2 +1,2 @@
-# DefinitelyNotBot
-A Discord bot coded in Discord.JS, hosted using Heroku.
+# Reiju Bot
+It's a bot testing. I'll see if it work.
