@@ -31,4 +31,4 @@ client.on('message', message => {
 })
 
 // THIS  MUST  BE  THIS  WAY
-client.login(process.env.NTE2NTM4MjkwODcxMDc0ODI3.Dt1Hkg.lGHflFlz8h71yOHrJG_0G1LIffE);
+client.login("NTE2NTM4MjkwODcxMDc0ODI3.Dt1Hkg.lGHflFlz8h71yOHrJG_0G1LIffE");
